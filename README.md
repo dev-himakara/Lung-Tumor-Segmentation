@@ -57,14 +57,8 @@ This project is provided as-is for educational and research purposes.
 
 ## Citation
 If you use this work in your research, please cite as:
-```
-@misc{himakara2026lungtumor,
-  author={Himakara, Dev},
-  title={Lung Tumor Segmentation using Neural Networks},
-  year={2026},
-  howpublished={\url{https://github.com/dev-himakara/Lung-Tumor-Segmentation}}
-}
-```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21896502.svg)](https://doi.org/10.5281/zenodo.21896502)
 
 ## Contact
 For questions or inquiries about this project, please reach out via GitHub.
